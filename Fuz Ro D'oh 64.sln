@@ -11,7 +11,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fuz Ro D'oh 64", "Fuz Ro D'
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "common_vc14", "..\common\common_vc14.vcxproj", "{472E19AB-DEF0-42DF-819B-18722E8DC822}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "skse64_common", "..\skse64\skse64_common\skse64_common.vcxproj", "{5FD1C08D-DB80-480C-A1C6-F0920005CD13}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "skse64_common", "..\sksevr-mirror\skse64_common\skse64_common.vcxproj", "{5FD1C08D-DB80-480C-A1C6-F0920005CD13}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Depends", "Depends", "{A71745EB-3345-484C-912F-25676F73887C}"
 EndProject
